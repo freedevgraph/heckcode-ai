@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "provider": {
+    "provider": "openai",
+    "apiKey": "sk-...",
+    "model": "gpt-4o",
+    "maxTokens": 4096,
+    "temperature": 0.7
+  },
+  "humanInLoop": {
+    "enabled": true,
+    "mode": "on_tool",
+    "confirmOn": ["bash", "write", "edit"]
+  },
+  "callingMode": "function",
+  "tools": {
+    "enabled": [],
+    "disabled": []
+  },
+  "systemPrompt": "You are HeckCode, a highly modular AI coding agent.",
+  "workspace": "."
+}

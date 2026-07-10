@@ -1,0 +1,42 @@
+{
+  "name": "heckcode",
+  "version": "0.1.0",
+  "description": "A highly modular AI coding agent with human-in-the-loop, setup wizard CLI, and multiple AI providers",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "heckcode": "dist/cli/index.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/cli/index.js",
+    "dev": "tsx src/cli/index.ts",
+    "lint": "tsc --noEmit",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "ai",
+    "coding-agent",
+    "cli",
+    "modular"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.0",
+    "@google/generative-ai": "^0.21.0",
+    "chalk": "^5.4.1",
+    "commander": "^12.1.0",
+    "inquirer": "^12.3.0",
+    "openai": "^4.73.0",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}
