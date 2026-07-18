@@ -99,3 +99,13 @@ Contributions are welcome. Please open an issue first if you're planning larger 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=freedevgraph%2Fheckcode-ai&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=freedevgraph/heckcode-ai&type=date&theme=dark&legend=top-left&sealed_token=KpzjcSdx_Nt4--c3ni0J6FbGb3c4JpzxmjSx6echgWg-5Q9WyqxTQ-YO9IwW6Ab3atwRrwSaaxCHQRV7Ey3Wxt4EaCbLxal6g7snJOLduBDVICe8YM1X5z9rn3MYqC4bWST_UM8iTxsyZGfLmcNtSlbpv0DJ38KIgFFEBQqnZcX-VxVsaf-8CsLuweQm" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=freedevgraph/heckcode-ai&type=date&legend=top-left&sealed_token=KpzjcSdx_Nt4--c3ni0J6FbGb3c4JpzxmjSx6echgWg-5Q9WyqxTQ-YO9IwW6Ab3atwRrwSaaxCHQRV7Ey3Wxt4EaCbLxal6g7snJOLduBDVICe8YM1X5z9rn3MYqC4bWST_UM8iTxsyZGfLmcNtSlbpv0DJ38KIgFFEBQqnZcX-VxVsaf-8CsLuweQm" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=freedevgraph/heckcode-ai&type=date&legend=top-left&sealed_token=KpzjcSdx_Nt4--c3ni0J6FbGb3c4JpzxmjSx6echgWg-5Q9WyqxTQ-YO9IwW6Ab3atwRrwSaaxCHQRV7Ey3Wxt4EaCbLxal6g7snJOLduBDVICe8YM1X5z9rn3MYqC4bWST_UM8iTxsyZGfLmcNtSlbpv0DJ38KIgFFEBQqnZcX-VxVsaf-8CsLuweQm" />
+ </picture>
+</a>
