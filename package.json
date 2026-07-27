@@ -29,7 +29,7 @@
     "@google/generative-ai": "^0.24.1",
     "chalk": "^5.4.1",
     "commander": "^12.1.0",
-    "inquirer": "^12.3.0",
+    "inquirer": "^14.0.2",
     "openai": "^6.49.0",
     "zod": "^4.4.3"
   },
